@@ -1,7 +1,7 @@
 # ai2thorxyolov3
 UET-AI-Robot INT3409-21
 
-Group member: Nguyễn Duy Võ Anh
+Group member: Nguyễn Duy Võ Anh - 16022401
 
 ## Requirements
 * OS: Mac OS X 10.9+, Ubuntu 14.04+
