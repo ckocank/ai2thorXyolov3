@@ -20,6 +20,10 @@ Group member: Nguyễn Duy Võ Anh - 16022401
 
 `$ git clone https://github.com/voanh01/ai2thorxyolov3.git`
 
+`$ cd ai2thor`
+
+`$ wget https://pjreddie.com/media/files/yolov3.weights`
+
 * Setup:
 
 `$ cd ai2thor`
