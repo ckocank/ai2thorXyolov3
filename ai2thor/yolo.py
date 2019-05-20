@@ -1,4 +1,3 @@
-# tham khao tu trang web https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
 # import the necessary packages
 import numpy as np
 import argparse
