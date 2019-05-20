@@ -3,7 +3,6 @@ UET-AI-Robot INT3409-21
 
 Group member: Nguyễn Duy Võ Anh - 16022401
 
-Nguyễn Trọng Dương
 ## Requirements
 * OS: Mac OS X 10.9+, Ubuntu 14.04+
 * Graphics Card: DX9 (shader model 3.0) or DX11 with feature 	level 9.3 capabilities.
